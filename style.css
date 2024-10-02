@@ -1,0 +1,13 @@
+body{
+color: black;
+background: lightgrey;
+
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
